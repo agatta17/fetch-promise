@@ -1,5 +1,5 @@
 # Пример работы с Fetch и Promise
-__[Посмотреть демо](https://agatta17.github.io/fetch-promise/?username=agatta17)__
+__[Демо](https://agatta17.github.io/fetch-promise/?username=agatta17)__
 
 ## Создание запросов. Fetch
 1. Выполняется запрос для получения информации о пользователе на github.com. Ник пользователя задается в параметре URL. Если ник в параметре не задан, то для запроса используется мой ник.
