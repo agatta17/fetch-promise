@@ -1,0 +1,2 @@
+# fetch-promise
+usage example
